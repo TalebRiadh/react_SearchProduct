@@ -1,0 +1,4 @@
+functions: 
+	slice(): creer une copie de tableau
+	splice(index,1): supprimer un element de tableau qui a l'index
+	this.setState({clients: clientsNv}):changer le status de clients avec clientsNv
