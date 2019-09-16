@@ -1,6 +1,4 @@
 import React from 'react'
-
-
 function Product(props) {
 
     return (
@@ -13,7 +11,4 @@ function Product(props) {
     )
 
 }
-
-
-
 export default Product
